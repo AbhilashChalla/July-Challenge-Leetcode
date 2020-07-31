@@ -1,4 +1,6 @@
-Soultions for problems solved during the 30 day July Leetcode Challenge
+Added solutions for July Leetcode Challenge.
+
+Problem links:
 
 Day 1: Arranging Coins (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)
 
@@ -26,7 +28,7 @@ Day 12: Reverse Bits (https://leetcode.com/explore/challenge/card/july-leetcodin
 
 Day 13: Same Tree (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)
 
-Day 14: Angle between hands of clock (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)
+Day 14: Angle between hands of clock (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)
 
 Day 15: Reverse words in a string (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)
 
@@ -47,3 +49,17 @@ Day 22: Binary Tree Zigzag Level Order Traversal (https://leetcode.com/explore/c
 Day 23: Single Number III (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)
 
 Day 24: All paths from source to target (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)
+
+Day 25: Find Minimum in Rotated Sorted Array II (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/)
+
+Day 26: Add Digits (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)
+
+Day 27: Construct Binary Tree from Inorder and Postorder Traversal (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/)
+
+Day 28: Task Scheduler (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/)
+
+Day 29: Best Time to Buy and Sell Stock with Cooldown (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/)
+
+Day 30: Word Break II (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/)
+
+Day 31: Climbing Stairs (https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3407/)
